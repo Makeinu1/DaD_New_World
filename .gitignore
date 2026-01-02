@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-*
+
+# Private DM notes (プレイヤーに見せたくない情報)
+**/dm-private/
+**/private-notes.md
+**/*-private.md
+
+# Session recordings and logs (大きなファイル)
+recordings/
+*.mp4
+*.mov
+*.mp3
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+~$*
+
+# Build outputs (将来的にPDF生成などする場合)
+dist/
+build/
+*.pdf.tmp
+
+# Environment files
+.env
+.env.local
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
