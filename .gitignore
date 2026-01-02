@@ -3,6 +3,10 @@
 .AppleDouble
 .LSOverride
 Icon
+Icon?
+Icon
+**/Icon
+**/Icon?
 ._*
 .DocumentRevisions-V100
 .fseventsd
