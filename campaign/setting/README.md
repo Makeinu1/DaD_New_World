@@ -1,6 +1,6 @@
-# 記憶喪失蘇生システム - 世界観バリエーション10選
+# 記憶喪失蘇生システム - 世界観バリエーション11選
 
-**オリジナル5選 + 既存D&D世界観ベース5選**
+**オリジナル5選 + 既存D&D世界観ベース6選**
 
 ---
 
@@ -9,7 +9,7 @@
 ```
 campaign/setting/
 ├── original/              # オリジナル世界観（5つ）
-├── official-settings/     # 既存D&D世界観ベース（5つ）
+├── official-settings/     # 既存D&D世界観ベース（6つ）
 ├── old/                   # 旧バージョン（アビサル帝国等）
 └── README.md             # このファイル
 ```
@@ -32,7 +32,7 @@ campaign/setting/
 
 ---
 
-## 🏰 既存D&D世界観ベース（5選）
+## 🏰 既存D&D世界観ベース（6選）
 
 公式D&D世界観を基にした設定。既存のロアやNPCを活用可能。
 
@@ -43,8 +43,9 @@ campaign/setting/
 | 3 | **Eberron** | [official-settings/eberron.md](official-settings/eberron.md) | シャーンの地下 | ドラゴンシャード |
 | 4 | **Planescape** | [official-settings/planescape.md](official-settings/planescape.md) | シジルの地下 | レディ・オブ・ペインの法則 |
 | 5 | **Exandria** | [official-settings/exandria.md](official-settings/exandria.md) | エイオールの遺跡 | ラクソンのビーコン |
+| 6 | **Radiant Citadel** | [official-settings/radiant-citadel.md](official-settings/radiant-citadel.md) | 調和の地下宮 | 調和の宝珠 |
 
-**詳細比較**：[official-settings/COMPARISON.md](official-settings/COMPARISON.md)
+**詳細比較**：[official-settings/README.md](official-settings/README.md)
 
 ---
 
